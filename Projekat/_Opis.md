@@ -1,5 +1,5 @@
 # Ovo je sažet opis prve verzije projekta.
-  \- Kao prvi fajl na sistemu on se ne može editovati! -
+  \- Kao prvi fajl na sistemu on se ne sme nadalje editovati! - 16/03/2025 20:00
 # 
 ## Projekat predstavlja rad, potencijalno nove, institucije koja je zadužena za ograničavanje sprovođenja interesa pojedinca naspram dobrobiti većine.
 - Neophodno je da uklonimo strukturu piramide i postavimo pravedniji princip delovanja.
