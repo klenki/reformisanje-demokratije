@@ -6,7 +6,7 @@
 - Svako rešenje mora da sadrži šifru "Problema" pod kojim se zavodi.
 - Rešenja moraju da imaju datum prijave i rok isporuke rešenja.
 - Neophodno je da svako rešenje da odgovore na merljive metrike (rezultate) definisanih u "Problemu". Odgovori ne moraju da budu potpuni, ali moraju biti realni.
-- Rešenja može da prijavi bilo koji državljanin republike.
+- Rešenje može da prijavi bilo koji državljanin republike.
 - Rešenja moraju da proveravaju stručnjaci za prijavljenu oblast i da ih evaluiraju (odrede sve metrike koje će se postići upotrebom ovog rešenja)
 - Svako rešenje mora da postoji u fizičkoj i u digitalnoj verziji.
 - Read only kopije svih rešenja za svaki "Problem" su dostupne na sajtu "Institucije" svakom državljaninu republike.
