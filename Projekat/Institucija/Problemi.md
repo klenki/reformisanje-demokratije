@@ -30,7 +30,7 @@
 - Svaki prijavljeni problem mora biti uvažen i predstavlja zvanični državni dokument.
 - Svaki državljanin ima pravo da prijavi bilo koji problem, ali ne može ga samostalno evaluirati, to radi stručna komisija (čak i u slučaju kada je on jedan on članova te komisije)
 - Stručna komisija se sastoji od svih prijavljenih stručnjaka za određenu oblast i imaju pravo nadgledanja i vršenja izmena na svaki prijavljeni problem.
-- Kada se reši prvobitni roditelj problem, sva deca problemi se svrstavaju u rešene zajedno s roditeljom. Ako nešto nije rešeno do kraja, ili neko dete problem poseduje više stavki od originalnog problema, može da se napravi novi problem koji to pokriva.
+- Kada se "Reši" prvobitni roditelj problem, sva deca problemi se svrstavaju u "Rešene" zajedno s roditeljom. Ako nešto nije "Rešeno" do kraja, ili neko dete problem poseduje više stavki od originalnog problema, može da se napravi novi problem koji to pokriva.
 - Stariji od 18 godina mogu da prijavljuju probleme.
 ### Posebni slučajevi
 - Za oblasti u kojima postoji deficit problema, Profesori tih oblasti na državnim univerzitetima su dužni da postave novi problem za tu oblast u roku od 6 (šest) meseci od kada je poslednji problem postavljen.
