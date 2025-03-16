@@ -7,7 +7,9 @@
 ### Sadržaj
 - Svaki problem mora da sadrži posebnu šifru kojom se zavodi.
 - Problemi moraju da imaju datum prijave i krajnji rok neophodan za rešavanje problema (ako je nemoguće utvrditi krajnji rok rešavanja problema postavlja specijalno obeležje)
-- Neophodno je da svaki problem ima merljive metrike (rezultate) koje zahteva da se postignu prilikom "Rešavanja" problema.
+- Neophodno je da svaki problem ima merljive metrike (rezultate) koje zahteva da se postignu prilikom "Rešavanja" problema. Metrike se postavljaju po principu: minimum i maksimum. Gde je minimum najniži nivo zadate metrike, a maksimum najviši mogući. Primer:
+  1) Želimo da ukupni troškovi budu što niži tako da je minimum 0, a maksimum procena stručnjaka za tu oblast do granice nivoa neisplativosti
+  2) Zelimo da materijali budu što kvalitetniji, tako da je maksimalni kvalitet postavljen na skali 100 (figurativno predstavlja najbolji kvalitet), a minimalni na najnižu vrednost koju stručnjaci postave kao izvodivu za taj vid problema.
 - Problemi moraju da budu predstavljeni u prioritetnoj listi koja se vremenom ažurira.
 - Problemi moraju da se svrstavaju po Tipu problema, kao i po svim podtipovima (tagovima)
 - Probleme može da prijavi bilo koji državljanin republike.
@@ -19,6 +21,7 @@
   Objašnjenje: Prvi problem dobija naslednika.
 - Ime kreatora problema je javno dostpuno, kao i overeni lični dokument.
 - Svaki problem mora imati makar jedno "Rešenje" kako bi se zaveo kao završen/rešen.
+- Probleme možemo rešiti spajanjem više prijavljenih rešenja kako bismo izdvojili od svake najbolje metrike koje bi se postigle primenom svakog od tih rešenja. U slučaju da nije moguće spojiti više "Rešenja" zbog kompleksnosti problema, onda se bira "Rešenje" sa najvećim brojem uspešnosti najbitnijih metrika (Objašnjenje: neke metrike nose viši prioritet od drugih. Metrike koje "Rešenja" pružaju ovom prilikom najbliže zadovoljavaju traženom cilju uspešnosti metrika zabeleženih u problemu)
 ### Uputstvo
 - Svaki problem može da se vidi na sajtu "Institucije", kao i istorija izmena donetih nad tim problemom (deca tog problema).
 - Kako biste prijavili problem neophodno je da zakažete prijavu u lokalnom predstavništvu "Institucije".
