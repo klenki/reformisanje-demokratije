@@ -1,5 +1,5 @@
 # Problemi
-- Problemi unutart "Institucije" predstavljaju glavni dokument kojim se postavlja bilo koje pitanje od demokratskog značaja.
+- Problemi unutar "Institucije" predstavljaju glavni dokument kojim se postavlja bilo koje pitanje od demokratskog značaja.
 ## Tipovi problema
 - Od državnog značaja (Međunarodna politika, Državne inicijative, Fondovi, Tenderi, itd)
 - Lokalni (Okružnji, Gradski, Opštinski, Ulični, Parkovni, itd)
