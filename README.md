@@ -7,13 +7,12 @@ _Demokratija kao vladavina naroda kakva se trenutno sprovodi pokazuje određene 
 
 ### Kako bismo se lakše razumeli dalji tekst će biti pisan iz prvog lica.
 #### Ovim ću zaobići birokratski rečnik, neće doći do nepotrebnih nedoumica i koncizno ću vam predstaviti značenje narednih iskaza. :)
-
-## Cilj:
-Ovaj projekat služi kako bismo zajednički došli do najboljeg rešenja **glavnih demokratskih problema**:
+#
+### Projekat služi kako bismo zajednički došli do najboljeg rešenja **glavnih demokratskih problema**:
   1) **Pojedicnu je dozvoljeno da sprovodi svoje interese i kada nisu u interesu naroda**
   2) **Podstiče se nepotizam i poslušnost/pripadnost skupu (stranci, pokretu, itd) naspram stručnosti prilikom odabira ljudi za pozicije od značaja**
   3) **Zvanične dokumentacije nisu javno dostupne u celosti, ili se u praksi ne primenjuju tačke po njima**
-  
+#
 
 _Originalni autor je anoniman, ali svako može da doprinese unapređenju projekta._
 
