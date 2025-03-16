@@ -6,7 +6,7 @@
 - Stučni (Vezani za određene delatnosti: Nauka, Poljoprivredna, Tehnologija, itd)
 ### Sadržaj
 - Svaki problem mora da sadrži posebnu šifru kojom se zavodi.
-- Problemi moraju da imaju datum prijave i krajnji rok neophodan za rešavanje problema (ako je nemoguće utvrditi krajnji rok rešavanja problema postavlja specijalno obeležje)
+- Problemi moraju da imaju datum prijave i krajnji rok neophodan za "Rešavanje" problema (ako je nemoguće utvrditi krajnji rok za "Rešavanje" problema, postavlja se specijalno obeležje)
 - Neophodno je da svaki problem ima merljive metrike (rezultate) koje zahteva da se postignu prilikom "Rešavanja" problema. Metrike se postavljaju po principu: minimum i maksimum. Gde je minimum najniži nivo zadate metrike, a maksimum najviši mogući. Primer:
   1) Želimo da ukupni troškovi budu što niži tako da je minimum 0, a maksimum procena stručnjaka za tu oblast do granice nivoa neisplativosti
   2) Zelimo da materijali budu što kvalitetniji, tako da je maksimalni kvalitet postavljen na skali 100 (figurativno predstavlja najbolji kvalitet), a minimalni na najnižu vrednost koju stručnjaci postave kao izvodivu za taj vid problema.
