@@ -8,7 +8,7 @@ Moguće je zaposliti samo studente koji trenutno studiraju na državnim fakultet
 - Pečat se koristi kako bi se svaki dokument overio fizički i digitalno. Fizičke dokumente je neophodno skladištiti u arhivu same institucije.
 
 ## Ograničenja
-- Studenti moraju biti mlađi od 30 (trideset) godina prilikom zapošljenja.
+- Studenti moraju biti mlađi od 30 (trideset) godina prilikom zapošljavanja.
 - Svaki student je ograničen na maksimalno 2 (dve) godine rada unutar institucije.
 
 ## Stručnjaci
