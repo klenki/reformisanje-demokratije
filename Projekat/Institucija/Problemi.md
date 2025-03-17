@@ -2,7 +2,7 @@
 - Problemi unutar "Institucije" predstavljaju glavni dokument kojim se postavlja bilo koje pitanje od demokratskog značaja.
 ## Tipovi problema
 - Od državnog značaja (Međunarodna politika, Državne inicijative, Fondovi, Tenderi, itd)
-- Lokalni (Okružnji, Gradski, Opštinski, Ulični, Parkovni, itd)
+- Lokalni (Okružni, Gradski, Opštinski, Ulični, Parkovni, itd)
 - Stučni (Vezani za određene delatnosti: Nauka, Poljoprivredna, Tehnologija, itd)
 ### Sadržaj
 - Svaki problem mora da sadrži posebnu šifru kojom se zavodi.
@@ -21,7 +21,7 @@
   Objašnjenje: Prvi problem dobija naslednika.
 - Ime kreatora problema je javno dostpuno, kao i overeni lični dokument.
 - Svaki problem mora imati makar jedno "Rešenje" kako bi se zaveo kao završen/rešen.
-- Probleme možemo "Rešiti" spajanjem više prijavljenih "Rešenja" kako bismo izdvojili od svake najbolje metrike koje bi se postigle primenom svakog od tih "Rešenja". U slučaju da nije moguće spojiti više "Rešenja" zbog kompleksnosti problema, onda se bira "Rešenje" sa najvećim brojem uspešnosti najbitnijih metrika (Objašnjenje: neke metrike nose viši prioritet od drugih. Metrike koje "Rešenja" pružaju ovom prilikom najbliže zadovoljavaju traženom cilju uspešnosti metrika zabeleženih u problemu)
+- Probleme možemo "Rešiti" spajanjem više prijavljenih "Rešenja" kako bismo izdvojili od svake najbolje metrike koje bi se postigle primenom svakog od tih "Rešenja". U slučaju da nije moguće spojiti više "Rešenja" zbog kompleksnosti problema, onda se bira "Rešenje" sa najvećim brojem uspešnosti najbitnijih metrika (Objašnjenje: neke metrike nose viši prioritet od drugih. Metrike koje "Rešenja" pružaju ovom prilikom najbliže zadovoljavaju traženi cilj uspešnosti metrika zabeleženih u problemu)
 ### Uputstvo
 - Svaki problem može da se vidi na sajtu "Institucije", kao i istorija izmena donetih nad tim problemom (deca tog problema).
 - Kako biste prijavili problem neophodno je da zakažete prijavu u lokalnom predstavništvu "Institucije".
