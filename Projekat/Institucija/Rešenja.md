@@ -1,15 +1,15 @@
 # Rešenja
 - Rešenja unutar "Institucije" predstavljaju glavni dokument kojim se postavlja bilo koji odgovor na zavedeni "Problem".
 ### Tipovi rešenja
-- Postšto su direktno povezani s "Probelmima", pogledati: "Problemi" > "Tipovi problema"
+- Pošto su direktno povezani s "Probelmima", pogledati: "Problemi" > "Tipovi problema"
 ### Sadržaj
 - Svako rešenje mora da sadrži šifru "Problema" pod kojim se zavodi.
 - Rešenja moraju da imaju datum prijave i rok isporuke rešenja.
 - Neophodno je da svako rešenje da odgovore na merljive metrike (rezultate) definisanih u "Problemu". Odgovori ne moraju da budu potpuni, ali moraju biti realni.
-- Rešenje može da prijavi bilo koji državljanin republike.
+- Rešenje može da prijavi bilo koji državljanin Republike.
 - Rešenja moraju da proveravaju stručnjaci za prijavljenu oblast i da ih evaluiraju (odrede sve metrike koje će se postići upotrebom ovog rešenja)
 - Svako rešenje mora da postoji u fizičkoj i u digitalnoj verziji.
-- Read only kopije svih rešenja za svaki "Problem" su dostupne na sajtu "Institucije" svakom državljaninu republike.
+- Read only kopije svih rešenja za svaki "Problem" su dostupne na sajtu "Institucije" svakom državljaninu Republike.
 - Svako rešenje predstavlja unikatan dokument i povezano je sa određenim "Problemom".
 - Originalna rešenja je nemoguće menjati, ali je moguće pisati nova rešenja kao dopunu na ista, kojim se pravi srodno rešenje i ulazi u istoriju prethodnog. Objašnjenje: Prvo rešenje dobija naslednika.
 - Ime kreatora rešenja je javno dostpuno, kao i overeni lični dokument.
