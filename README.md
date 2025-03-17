@@ -1,5 +1,5 @@
 # Reformisanje Demokratije
-Ovo je projekat plana za reformisanja demokratije državnog uređenja.
+Ovo je projekat plana za reformisanja demokratije kao državnog uređenja.
 
 ## Razlog:
 _Demokratija kao vladavina naroda kakva se trenutno sprovodi pokazuje određene slabosti koje pomažu pojedincima da utiču nepovoljno naspram dobrobiti većine._
