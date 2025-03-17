@@ -12,8 +12,9 @@ _Demokratija kao vladavina naroda kakva se trenutno sprovodi pokazuje određene 
   1) **Pojedicnu je dozvoljeno da sprovodi svoje interese i kada nisu u interesu naroda**
   2) **Podstiče se nepotizam i poslušnost/pripadnost skupu (stranci, pokretu, itd) naspram stručnosti prilikom odabira ljudi za pozicije od značaja**
   3) **Zvanične dokumentacije nisu javno dostupne u celosti, ili se u praksi ne primenjuju tačke po njima**
-#
 
+Ne planiramo da rušimo bilo koji sistem, već zajedničkim putem da dođemo do novog sistema koji daje odgvovore na 3 spomenuta problema koji se tiču: Pojedinca, Nepotizma i Dokumentacije.
+#
 _Originalni autor je anoniman, ali svako može da doprinese unapređenju projekta._
 
 #### Uputstvo za izemenu i dopunu:
